@@ -7,5 +7,5 @@ Collection of my data-analytics certifications and projects, including Udemy cou
 3. FORAGE TATA CERTIFICATE : Tata Data Visualization: Empowering Business with Insights – Forage Virtual Experience
 Completed a virtual program on data analysis and visualization, building interactive dashboards and presenting actionable business insights using real-world datasets. Gained hands-on experience in Excel, SQL, and Power BI while simulating business decision-making.
 
-4. FORAGE MORGAN STANLEY CERTIFICATE: Morgan Stanley Technology Analyst Program – Forage Virtual Experience
-Completed a virtual program focused on data analysis and technology-driven business solutions, working on real-world problem statements. Gained hands-on experience with Excel, SQL, Python, and data visualization while analyzing datasets and generating actionable insights
+4.  FORAGE DELOITTE CERTIFICATE : Deloitte Data Analyst Job Simulation – Forage
+Completed a virtual job simulation focused on data analytics and business intelligence. Performed data cleaning and exploration, created visualizations, and delivered actionable insights using Excel, SQL, and Power BI, mirroring real Deloitte client projects.
